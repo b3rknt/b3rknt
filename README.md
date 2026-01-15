@@ -1,16 +1,16 @@
-## Hi there 👋
+<h3 align="center">Berkant</h3>
 
-<!--
-**b3rknt/b3rknt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+No title yet. Just building with Unity.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently
+- Learning Unity
+- Making small games
+- Staying focused
+
+Rules
+- Build > talk
+- Finish projects
