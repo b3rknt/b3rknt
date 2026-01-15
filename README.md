@@ -8,9 +8,8 @@ No title yet. Just building with Unity.
 
 Currently
 - Learning Unity
-- Making small games
+- Making games
 - Staying focused
 
 Rules
-- Build > talk
 - Finish projects
